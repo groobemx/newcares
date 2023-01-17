@@ -1159,7 +1159,8 @@ hero css
   }
   .hero-single {
     padding-top: 190px;
-    background-position: center;
+  
+    background-position:70% 100% ;
   }
   .hero-single::after {
     width: 100%;
